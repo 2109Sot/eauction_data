@@ -4,7 +4,7 @@
 
 The homeownership-driven social inclusion of the previous periods does not exist anymore. The over-indebtedness of households and enterprises following the international financial crisis had a direct impact on the economic stability of the banking sector and provided justification for the current process of property seizure, through foreclosures and auctions.
 
-As a result, since 2014, the supposedly horizontal protection measures have been repealed and the ban on foreclosures has been abolished by the facilitation of auctions and the institution of the electronic auction platform [eauction.gr](eauction.gr) by the Notary Association of Athens, Piraeus, Aegean and Dodecanese.
+As a result, since 2014, the supposedly horizontal protection measures have been repealed and the ban on foreclosures has been abolished by the facilitation of auctions and the institution of the electronic auction platform [eauction.gr](https://www.eauction.gr/) by the Notary Association of Athens, Piraeus, Aegean and Dodecanese.
 
 In September 2019, [AthensLive](https://athenslive.gr/) published an investigation detailing these findings: ["Whose Home Is This? At Least 55,625 Properties Under the Hammer in Real Estate Auctions — and Counting."](https://medium.com/athenslivegr/whose-home-is-this-f3b45d878b0b)
 
