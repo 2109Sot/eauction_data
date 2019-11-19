@@ -1,6 +1,6 @@
 # At Least 55,625 Properties Under the Hammer in Real Estate Auctions — and Counting
 
-*A data-driven research into housing financialization in Greece and the restructuring of the country by the markets, accompanied by an open dataset.*
+**A data-driven research into housing financialization in Greece and the restructuring of the country by the markets, accompanied by an open dataset.**
 
 The homeownership-driven social inclusion of the previous periods does not exist anymore. The over-indebtedness of households and enterprises following the international financial crisis had a direct impact on the economic stability of the banking sector and provided justification for the current process of property seizure, through foreclosures and auctions.
 
@@ -18,7 +18,7 @@ We also compiled an [explanatory note](https://docs.google.com/document/d/10olVc
 
 This dataset was put together by Sotiris Sideris of AthensLive. Please credit AthensLive when reporting on it and drop us a line at info@athenslive.gr if you download the data. If you do any work that builds off this material, please share it with us.
 
-**Download the dataset in CSV format [here](https://drive.google.com/drive/folders/1iPTW6d8q54DBhKAyGejjCBrvB-KT3lXo) and the documentation database [here](https://drive.google.com/drive/folders/1j9UGnbO-vZl2TfqvvlLfzCmfFKy2KrNc).**
+##### Download the dataset in CSV format [here](https://drive.google.com/drive/folders/1iPTW6d8q54DBhKAyGejjCBrvB-KT3lXo) and the documentation database [here](https://drive.google.com/drive/folders/1j9UGnbO-vZl2TfqvvlLfzCmfFKy2KrNc).**
 
 **Research, data gathering and analysis:** [Sotiris Sideris](https://twitter.com/SotSideris)
 
