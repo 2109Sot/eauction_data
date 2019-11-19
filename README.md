@@ -21,4 +21,5 @@ This dataset was put together by Sotiris Sideris of AthensLive. Please credit At
 ## Download the dataset in CSV format [here](https://drive.google.com/drive/folders/1iPTW6d8q54DBhKAyGejjCBrvB-KT3lXo) and the documentation database [here](https://drive.google.com/drive/folders/1j9UGnbO-vZl2TfqvvlLfzCmfFKy2KrNc).
 
 Research, data gathering and analysis: [Sotiris Sideris](https://twitter.com/SotSideris)
+
 Dataviz: [Olga Souri](https://www.instagram.com/olgasouri/)
