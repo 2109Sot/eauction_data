@@ -1,6 +1,6 @@
 # At Least 55,625 Properties Under the Hammer in Real Estate Auctions — and Counting
 
-## A data-driven research into housing financialization in Greece and the restructuring of the country by the markets, accompanied by an open dataset.
+A data-driven research into housing financialization in Greece and the restructuring of the country by the markets, accompanied by an open dataset.
 
 The homeownership-driven social inclusion of the previous periods does not exist anymore. The over-indebtedness of households and enterprises following the international financial crisis had a direct impact on the economic stability of the banking sector and provided justification for the current process of property seizure, through foreclosures and auctions.
 
