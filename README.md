@@ -18,8 +18,8 @@ We also compiled an [explanatory note](https://docs.google.com/document/d/10olVc
 
 This dataset was put together by Sotiris Sideris of AthensLive. Please credit AthensLive when reporting on it and drop us a line at info@athenslive.gr if you download the data. If you do any work that builds off this material, please share it with us.
 
-### Download the dataset in CSV format [here](https://drive.google.com/drive/folders/1iPTW6d8q54DBhKAyGejjCBrvB-KT3lXo) and the documentation database [here](https://drive.google.com/drive/folders/1j9UGnbO-vZl2TfqvvlLfzCmfFKy2KrNc).**
+### Download the dataset in CSV format [here](https://drive.google.com/drive/folders/1iPTW6d8q54DBhKAyGejjCBrvB-KT3lXo) and the documentation database [here](https://drive.google.com/drive/folders/1j9UGnbO-vZl2TfqvvlLfzCmfFKy2KrNc).
 
-**Research, data gathering and analysis:** [Sotiris Sideris](https://twitter.com/SotSideris)
+**Research, report, data gathering and analysis:** [Sotiris Sideris](https://twitter.com/SotSideris)
 
-**Illustration & Data Visualization:** [Olga Souri](https://www.instagram.com/olgasouri/)
+**Illustration and data visualization:** [Olga Souri](https://www.instagram.com/olgasouri/)
