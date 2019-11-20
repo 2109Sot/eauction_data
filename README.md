@@ -2,7 +2,7 @@
 
 **A data-driven research into housing financialization in Greece and the restructuring of the country by the markets, accompanied by an open dataset.**
 
-The homeownership-driven social inclusion of the previous periods does not exist anymore. The over-indebtedness of households and enterprises following the international financial crisis had a direct impact on the economic stability of the banking sector and provided justification for the current process of property seizure, through foreclosures and auctions.
+The homeownership-driven social inclusion of the previous periods does not exist anymore. The over-indebtedness of households and enterprises - as a result of the international financial crisis - had a direct impact on the economic stability of the banking sector and provided justification for the current process of property seizure, through foreclosures and auctions.
 
 As a result, since 2014, the supposedly horizontal protection measures have been repealed and the ban on foreclosures has been abolished by the facilitation of auctions and the institution of the electronic auction platform [eauction.gr](https://www.eauction.gr/) by the Notary Association of Athens, Piraeus, Aegean and Dodecanese.
 
